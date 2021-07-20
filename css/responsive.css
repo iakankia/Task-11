@@ -1,5 +1,13 @@
 @media(max-width: 1370px){
-	select,.keyword{
-		width: 260px;
+	.right-side{
+		margin-left:25px;
+	}
+	.first-section{
+		margin-left:210px;
+		background-color: #F6F8F9;
+	}
+	.second-section{
+		margin-left:200px;
+		
 	}
 }

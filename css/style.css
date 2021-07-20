@@ -124,6 +124,7 @@ select{
 
 .second-section{
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	justify-content: space-between;
 	max-width: 1160px;
@@ -221,21 +222,44 @@ select{
 .footer-div-2{
 	width: 243px;
 	height: 9px;
+	margin-top: 50px;
+	margin-left:-223px;
 }
 .footer-div-2 p{
 	color: #CBD0D3;
 	font-size: 11px;
 	width: 262;
 	height: 65px;
-	margin-left: -500px;
-	margin-top: 135px;
+	margin-top: 13px;
 }
 
 .footer-div-3{
 	width: 160px;
 	height: 16px;
+	margin-top:58px;
 }
 .fa-instagram-square{
 /*	color: #A6ADB4;*/
 	font-size: 16px;
+}
+.fab,.fas {
+	color:white;
+	background-color: transparent;
+	margin-right:18px;
+}
+
+.footer-child p{
+	margin-bottom: 23px;
+	font-size: 13px;
+	color:#CBD0D3;
+}
+.footer-child-2 p{
+	margin-bottom: 23px;
+	font-size: 13px;
+	color:#CBD0D3;
+}
+.footer-child-3 p{
+	margin-bottom: 23px;
+	font-size:13px;
+	color:#CBD0D3;
 }
